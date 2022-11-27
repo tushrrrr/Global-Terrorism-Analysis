@@ -1,2 +1,2 @@
-# Global-Terrorism-Analysis
+# Global-Terrorism-Prediction
 
